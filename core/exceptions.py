@@ -1,0 +1,2 @@
+class HTTPConnection(Exception):
+    pass
